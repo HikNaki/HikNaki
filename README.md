@@ -1,10 +1,10 @@
 # 💫 About Me:
 
-I'm an enthusiastic undergraduate Information Systems student with a passion for data and technology. Skilled in programming and data analysis, I'm always eager to learn, grow, and tackle new challenges in the ever-evolving tech world. 
+I'm an enthusiastic fresh graduate Information Systems with a passion for data and technology. Skilled in programming and data analysis, I'm always eager to learn, grow, and tackle new challenges in the ever-evolving tech world. 
 
 With a strong drive for personal and professional development, I thrive on solving problems and finding insights hidden in data. Whether it’s coding, analyzing trends, or exploring new tools, I’m always up for the challenge. 
 
-🔭 **I’m currently working on:** Personal projects.  <br>🤝 **I’m looking to collaborate on:** Data visualization and analysis projects.  <br>🙋‍♂️ **I’m looking for help with:** Optimizing large-scale data pipelines.  <br>🌱 **I’m currently learning:** Apache Airflow, BigQuery, and Power BI.  <br>💬 **Ask me about:** Data Engineering and Analysis.  <br>⚡ **Fun fact:** I love creating playlists that match my mood while coding.
+🔭 **I’m currently working on:** Websawit projects.  <br>🤝 **I’m looking to collaborate on:** Data visualization and analysis projects.  <br>🙋‍♂️ **I’m looking for help with:** Optimizing large-scale data pipelines.  <br>🌱 **I’m currently learning:** Apache Airflow, BigQuery, and Power BI.  <br>💬 **Ask me about:** Data Engineering and Analysis.  <br>⚡ **Fun fact:** I love creating playlists that match my mood while coding.
 
 
 ## 🌐 Socials:
